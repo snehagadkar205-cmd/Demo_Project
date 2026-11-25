@@ -1,3 +1,4 @@
+#Hi im Sneha
 from django.apps import AppConfig
 
 
