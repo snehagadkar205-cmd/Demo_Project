@@ -1,3 +1,4 @@
+#hi this is basic python project
 """
 WSGI config for Demo_Project project.
 
